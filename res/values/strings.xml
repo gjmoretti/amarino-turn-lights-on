@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">TesteArduino</string>
+    <string name="btnLigado">Ligado</string>
+    <string name="btnDesligado">Desligado</string>
+
+</resources>
